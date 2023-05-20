@@ -3,6 +3,8 @@
 
 This is an ATM (Automated Teller Machine) simulator implemented in assembly language. The project is designed to simulate the basic functionalities of a real ATM machine, including cash withdrawals, deposits, transfer cach, and balance inquiries.
 
+![b940812137d9efd4e783db080ea2f734](https://github.com/Seif104/ATM-Assembly/assets/95093813/4727e2aa-ff63-4661-9cea-64bfc6e26a5d)
+
 
 ## Features
 
